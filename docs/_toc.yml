@@ -1,0 +1,7 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Literature Review & Methodology
+    chapters:
+      - file: docs/methodology
