@@ -32,8 +32,8 @@ docs = [
 
 [project.urls]
 "Homepage" = "https://github.com/datapartnership/mobilyze"
-"Bug Reports" = "https://github.com/datapartnershipank/mobilyze/issues"
-"Source" = "https://github.com/datapartnershipank/mobilyze"
+"Bug Reports" = "https://github.com/datapartnership/mobilyze/issues"
+"Source" = "https://github.com/datapartnership/mobilyze"
 
 [tool.codespell]
 skip = 'docs/_build,docs/bibliography.bib,*.png,*.gz,*.whl'
